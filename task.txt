@@ -1,3 +1,14 @@
+>> Modify this task for a merge conflicts [feature-b]
+    Contribute to Open Source
+
+        Priority: Medium
+        Deadline: Ongoing
+        Subtasks:
+            Find beginner-friendly repositories using tags like good first issue.
+            Contribute by fixing bugs or improving documentation.
+
+
+
 To-Do List for Git & GitHub
 Beginner Tasks
     Understand Git Basics
