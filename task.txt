@@ -1,0 +1,19 @@
+To-Do List for Git & GitHub
+Beginner Tasks
+    Understand Git Basics
+
+        Priority: High
+        Deadline: 3 days
+        Subtasks:
+            Install Git on your machine.
+        Learn basic commands:
+            git init, git add, git commit, git status, git log.
+            Understand the difference between working directory, staging area, and repository.
+    Learn GitHub Fundamentals
+
+        Priority: High
+        Deadline: 3 days
+        Subtasks:
+            Create a GitHub account.
+            Set up SSH keys for authentication.
+            Create and clone a repository.
