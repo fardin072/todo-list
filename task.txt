@@ -1,3 +1,14 @@
+
+>> Modify this task for a merge conflicts [feature-a]
+    Build a GitHub Portfolio
+
+        Priority: High
+        Deadline: Ongoing
+        Subtasks:
+            Upload completed projects to GitHub.
+            Create a professional README for each project.
+            Use GitHub Pages to host a personal website.
+
 >> Modify this task for a merge conflicts [feature-b]
     Contribute to Open Source
 
@@ -8,6 +19,7 @@
             Contribute by fixing bugs or improving documentation.
 
 
+>> Main Task Section
 
 To-Do List for Git & GitHub
 Beginner Tasks
