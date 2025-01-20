@@ -17,3 +17,31 @@ Beginner Tasks
             Create a GitHub account.
             Set up SSH keys for authentication.
             Create and clone a repository.
+
+
+## feature-update >> branch
+
+Intermediate Tasks
+    Work with Branches
+
+        Priority: Medium
+        Deadline: 5 days
+        Subtasks:
+            Learn to create and switch branches (git branch, git checkout, git switch).
+            Understand merging and resolving conflicts.
+            Practice deleting branches locally and remotely.
+            Collaborate Using GitHub
+
+        Priority: High
+        Deadline: 1 week
+        Subtasks:
+            Fork and clone a repository.
+            Make changes, commit, and push them.
+            Open a pull request (PR) and review others’ PRs.
+            Explore Git Remote Commands
+
+        Priority: Medium
+        Deadline: 5 days
+        Subtasks:
+            Understand git remote, git fetch, git pull, and git push.
+            Configure remotes for multiple repositories.
